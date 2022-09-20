@@ -6,7 +6,6 @@ Details of the model architecture and experimental results can be found in our p
 
 ```
 @article{nguyen2022amortized,
-abbr = {NeuRIPS},
   title={Amortized Projection Optimization for Sliced Wasserstein Generative Models},
   author={Khai Nguyen and Nhat Ho},
   journal={Advances in Neural Information Processing Systems},
